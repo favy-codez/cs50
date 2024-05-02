@@ -8,3 +8,5 @@ int main(void)
 
     printf("%c%c%c\n", c1, c2, c3);
 }
+
+// Notice that this will output a string of characters.
